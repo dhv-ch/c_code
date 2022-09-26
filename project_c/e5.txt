@@ -1,0 +1,4 @@
+from: dhyana@gmail.com
+to: dhvani2gmail.com
+sub: Regarding Placement oppertunities
+body: Hello Dhvani.I am Dhyana from Einfochips pvt.ltd. You are selected for the trainee position of grade-9 at einfochips. 

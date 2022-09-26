@@ -1,0 +1,4 @@
+from: nikita@gmail.com
+to: nisha@gmail.com
+sub: Posting a new material
+body: Hi Dhvani. This mail is simply inform you about posting a new material in classroom.Kindly refer that notes. Thank you 

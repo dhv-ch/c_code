@@ -1,0 +1,4 @@
+from: mahesh@yahoo.com
+to: aarvi@gmail.com
+sub: Appointment confirmation
+body: Hi Aarvi. I am Mahesh from Lata laboratery. Please confirm your appointment before coming for reports. Thank you.

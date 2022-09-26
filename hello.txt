@@ -1,0 +1,25 @@
+1) bash - bourne again shell
+
+			kernel services
+	1)file system service
+	2)Multiple processing services - process management
+	3)multithreading
+	4)memory allocation
+	5)memory mPPING
+	6)IPC- pipe,semaphore,
+	7)network protocol stack
+	8)timers
+
+
+
+TYPES OF KERNELS:-
+1) monolithic kernel - size more, execution time less
+2)microlithic kernel - size less, execution time more
+3)hybrid kernel - best of both
+
+
+
+
+-E to invoke preprocessor
+-v verbos mode to know depth of code
+

@@ -1,0 +1,33 @@
+        -:    0:Source:swap.c
+        -:    0:Graph:swap.gcno
+        -:    0:Data:-
+        -:    0:Runs:0
+        -:    0:Programs:0
+        -:    1:// Program for swapping numbers using another variable.
+        -:    2:#include<stdio.h>
+        -:    3:
+        -:    4:void swap(int,int);
+        -:    5:int temp;
+function main called 0 returned 0% blocks executed 0%
+    #####:    6:void main()
+        -:    7:{
+        -:    8:int a,b;
+    #####:    9:printf("Enter two numbers:- ");
+call    0 never executed
+    #####:   10:scanf("%d %d", &a,&b);
+call    0 never executed
+    #####:   11:printf("before swapping a is %d and b is %d",a,b);
+call    0 never executed
+    #####:   12:swap(a,b);
+call    0 never executed
+    #####:   13:}
+        -:   14:
+function swap called 0 returned 0% blocks executed 0%
+    #####:   15:void swap(c,d)
+        -:   16:{
+    #####:   17:temp=c;
+    #####:   18:c=d;
+    #####:   19:d=temp;
+    #####:   20:printf("Aftre swapping a is %d and b is %d",c,d);
+call    0 never executed
+    #####:   21:}

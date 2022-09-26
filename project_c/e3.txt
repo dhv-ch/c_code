@@ -1,0 +1,4 @@
+from: harshi@gmail.com
+to: tirth@gmail.com
+sub: About filling form
+body: Hi Tirth. I am Harshi.Please kindly fill up form which have been provided to you regarding placement opp. Thank you.
